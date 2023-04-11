@@ -1,0 +1,14 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: aqua;
+  width: 400px;
+  height: 400px;
+}
